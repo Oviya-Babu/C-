@@ -3,7 +3,7 @@ using namespace std;
 
 class SmartCar {
 public:
-    static int speedLimit; // Static variable for speed limit
+    static int speedLimit; 
     string model;
     int speed;
 
